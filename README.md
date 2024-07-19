@@ -45,54 +45,44 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/greetings1012" target="_blank">
+      <a href="https://github.com/JiHyeonL/branch-stretagy/blob/main/paran.md" target="_blank">
         파란
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/anttiey" target="_blank">
+      <a href="https://github.com/JiHyeonL/branch-stretagy/blob/main/parsely.md" target="_blank">
         파슬리
       </a>
     </td> <td align="center">
-      <a href="https://github.com/dle234" target="_blank">
+      <a href="https://github.com/JiHyeonL/branch-stretagy/blob/main/Hash.md" target="_blank">
        해시
       </a>
     </td> <td align="center">
-      <a href="https://github.com/yechop" target="_blank">
+      <a href="https://github.com/JiHyeonL/branch-stretagy/blob/main/%EC%9E%89%ED%81%AC.md" target="_blank">
        잉크
       </a>
     </td> <td align="center">
-      <a href="https://github.com/koust6u" target="_blank">
+      <a href="https://github.com/JiHyeonL/branch-stretagy/blob/main/fram.md" target="_blank">
         프람
       </a>
     </td>
 <td align="center">
-      <a href="https://github.com/kelly6bf" target="_blank">
+      <a href="https://github.com/JiHyeonL/branch-stretagy/blob/main/kelly.md" target="_blank">
         켈리
       </a>
     </td>
 <td align="center">
-      <a href="https://github.com/JiHyeonL" target="_blank">
+      <a href="https://github.com/JiHyeonL/branch-stretagy/blob/main/lemone.md" target="_blank">
         레모네
       </a>
     </td>
 <td align="center">
-      <a href="https://github.com/reddevilmidzy" target="_blank">
+      <a href="https://github.com/JiHyeonL/branch-stretagy/blob/main/%EB%A0%88%EB%94%94.md" target="_blank">
         레디
       </a>
     </td>
   </tr>
 </table>
-
-## 팀원 소개
-- [파란](https://github.com/JiHyeonL/branch-stretagy/blob/main/paran.md)
-- [파슬리](https://github.com/JiHyeonL/branch-stretagy/blob/main/parsely.md)
-- [해시](https://github.com/JiHyeonL/branch-stretagy/blob/main/Hash.md)
-- [잉크](https://github.com/JiHyeonL/branch-stretagy/blob/main/%EC%9E%89%ED%81%AC.md)
-- [프람](https://github.com/JiHyeonL/branch-stretagy/blob/main/fram.md)
-- [켈리](https://github.com/JiHyeonL/branch-stretagy/blob/main/kelly.md)
-- [레모네](https://github.com/JiHyeonL/branch-stretagy/blob/main/lemone.md)
-- [레디](https://github.com/JiHyeonL/branch-stretagy/blob/main/%EB%A0%88%EB%94%94.md)
 
 ## 프로젝트 소개
 > 함께 하면 좋은 코딩, 코딩해듀오 🍀
