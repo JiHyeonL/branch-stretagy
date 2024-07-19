@@ -85,14 +85,14 @@
 </table>
 
 ## 팀원 소개
-- [파란]()
-- [파슬리]()
-- [해시]()
-- [잉크]()
-- [프람]()
-- [켈리]()
-- [레모네]()
-- [레디]()
+- [파란](https://github.com/JiHyeonL/branch-stretagy/blob/main/paran.md)
+- [파슬리](https://github.com/JiHyeonL/branch-stretagy/blob/main/parsely.md)
+- [해시](https://github.com/JiHyeonL/branch-stretagy/blob/main/Hash.md)
+- [잉크](https://github.com/JiHyeonL/branch-stretagy/blob/main/%EC%9E%89%ED%81%AC.md)
+- [프람](https://github.com/JiHyeonL/branch-stretagy/blob/main/fram.md)
+- [켈리](https://github.com/JiHyeonL/branch-stretagy/blob/main/kelly.md)
+- [레모네](https://github.com/JiHyeonL/branch-stretagy/blob/main/lemone.md)
+- [레디](https://github.com/JiHyeonL/branch-stretagy/blob/main/%EB%A0%88%EB%94%94.md)
 
 ## 프로젝트 소개
 > 함께 하면 좋은 코딩, 코딩해듀오 🍀
